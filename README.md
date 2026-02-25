@@ -4,6 +4,12 @@
 
 ---
 
+## PeakWell Executive Dashboard
+
+![PeakWell Executive Dashboard](PK%20Executive%20Dashboard.png)
+
+*Executive dashboard design based on key business metrics. Interactive dashboards coming soon.*
+
 ## Project Overview
 PeakWell is a fictional retail company. This project demonstrates the **end-to-end workflow of a data analyst or business intelligence professional**, from raw data to meaningful insights.
 
